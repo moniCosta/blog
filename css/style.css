@@ -1,0 +1,12 @@
+h1{
+    font-size: 3rem;
+    text-align: center;
+    font-family: sans-serif;
+    color: orange;
+}
+
+p{
+    font-size: 1.5rem;
+    color: darkgreen;
+    text-align: center;
+}
