@@ -1,7 +1,10 @@
+body{
+    font-family: sans-serif;
+}
 h1{
     font-size: 3rem;
     text-align: center;
-    font-family: Georgia;
+    font-family: 'Lucida Sans';
     color: orange;
 }
 
